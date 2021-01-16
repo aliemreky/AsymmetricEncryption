@@ -1,2 +1,2 @@
-# Encode & Decode Algorithm
+# Asymmetric Encryption
 Encode &amp; Decode Algorithm
